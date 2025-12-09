@@ -6,7 +6,7 @@
 [![Flask](https://img.shields.io/badge/API-Flask-lightgrey)](https://flask.palletsprojects.com/)
 [![DVC](https://img.shields.io/badge/MLOps-DVC-orange)](https://dvc.org/)
 
-A production-ready Chrome extension that performs real-time sentiment analysis on YouTube video comments using machine learning. The system combines a LightGBM classification model with TF-IDF vectorization to analyze comment sentiments, providing visual insights through interactive charts, word clouds, and sentiment trends.
+A production-ready Chrome extension that performs real-time sentiment analysis on YouTube video comments using machine learning. The system combines a LightGBM classification model with TF-IDF vectorization to analyze comment sentiments, providing visual insights through interactive charts, word clouds, and sentiment trends. Read the [blog](https://medium.com/@madankh00123/building-a-smart-youtube-comment-analyzer-a-full-stack-ml-chrome-extension-ae69fe9449d3) for an explanation of the code.
 
 ## 🌟 Key Features
 
